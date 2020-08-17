@@ -15,8 +15,8 @@ This is a template repository for text processing & pre-analysis formatting in P
 3. Move data source into root folder and create notebook in root folder. (Link to external data in notebook if no local data is being used)
 4. Review the template_notebook folder as needed.
 
-## Licence
-MIT Licence, 2020
+## License
+MIT License, 2020
 
 ## Contact
 If you have any questions, please contact me at matt@mattsunner.com. If you wish to make this template repo better, please submit a PR. 
